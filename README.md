@@ -1,6 +1,6 @@
 ### Hi! Im Nzzhxl.
 I Enjoy Making Software, Minecraft Mods and Datapacks as a Hobby.\
-I Mainly Make Minecraft Content and Python Projects.
+I Mainly Make Minecraft and Python Projects.
 
 `Datapack Developer`
 `MCreator Developer`
