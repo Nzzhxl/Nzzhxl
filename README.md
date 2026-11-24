@@ -5,11 +5,12 @@ I Mainly Make Minecraft and Python Projects.
 `Datapack Developer`
 `MCreator Developer`
 `Python Developer`
+`C++ Developer`
 
 ## Main Skills:
 <p align="left">
   <a href="https://github.com/Nzzhxl">
-    <img src="https://skillicons.dev/icons?i=python,arduino" />
+    <img src="https://skillicons.dev/icons?i=python,cpp" />
   </a>
 </p>
 
