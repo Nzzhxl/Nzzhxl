@@ -19,5 +19,6 @@ I Mainly Make Minecraft and Python Projects.
 <a href="https://modrinth.com/user/Nzzhxl">
   <img src="https://cdn.simpleicons.org/modrinth" alt="Modrinth" width="44">
 </a>
-
+<!-- 
 ![Coding Data](https://ziit.app/api/public/badge/jeconuktztivv7tjofqzlhgv)
+-->
